@@ -6,5 +6,4 @@ Run following commands as given below in given sequence.
 2. cd client
 3. npm i
 4. cd..
-5. replace the <dbpassword> with password provided
-6. run `npm run dev` 
+5. run `npm run dev` 
